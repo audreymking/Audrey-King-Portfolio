@@ -1,7 +1,7 @@
 /*changes format of webpage when screen changes*/
 @media screen and (max-width: 728px) {
     body {
-        color: #89B0AE;
+        color: #555B6E;
         background-color: #555B6E;
     }
 
