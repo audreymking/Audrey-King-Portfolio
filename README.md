@@ -1,6 +1,6 @@
-## AudreyKing Portfolio
+# Audrey King Portfolio
 
-# Introduction
+## Introduction
 
 This application shows my current portfolio and showcases my favorite projects I completed so far in the program.
 This portfolio contains: 
@@ -9,16 +9,22 @@ This portfolio contains:
 * Links to my GitHub, LinkedIn, and email.
 * Links and screenshots of two recent projects
 
-# Requirements
+## Requirements
 
-This application required many things I have learned throughout this class:
+This application required:
 * HTML
 * CSS
 * Bootstrap
 
 I also used the website coolors.co to create a color palatte for the portfolio
 
-# Link
+## Mock Up and Link
 
-Click on the link below for the full portfolio
+![Profile Screenshot](Demo1.png)
+
+![Contact Screenshot](Demo2.png)
+
+![Portfolio Screenshot](Demo3.png)
+
+Click on the link for the full portfolio
 https://audreymking.github.io/Audrey-King-Portfolio/
