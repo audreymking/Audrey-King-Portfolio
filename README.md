@@ -16,7 +16,7 @@ This application required:
 * CSS
 * Bootstrap
 
-I also used the website https://coolors.co/ to create a color palatte for the portfolio
+I also used the website https://coolors.co/ to create a color palette for the portfolio
 
 ## Mock Up and Link
 
