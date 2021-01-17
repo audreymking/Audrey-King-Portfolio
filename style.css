@@ -1,24 +1,11 @@
-/*changes format of webpage when screen changes*/
-@media screen and (max-width: 728px) {
-    body {
-        color: peachpuff;
-        background-color: black;
-    }
-
-    .jumbotron {
-        margin: 0px;
-        background: peachpuff;
-    }
-}
-
 /*body*/
 body {
-    background-color: powderblue;
+    background-color: #555B6E
 }
 
 /*font color for headers*/
 h1 { 
-    color: navy;
+    color: #89B0AE;
 }
 
 /*font type of title*/
@@ -30,14 +17,10 @@ title {
 p {
     text-align: center;
 }
-/*color for button text*/
-.button {
-    color: white;
-}
 
 /*card size*/
 .card {
-    margin: 0 auto;
+    margin: auto;
     margin-bottom: 10px;
 }
 
@@ -48,12 +31,15 @@ p {
 
 }
 
-/*adjust size of jumbotron*/
+/*adjust size and color of jumbotron*/
 .jumbotron {
-    
     color: black;
     position: center;
     margin: 30px;
 
 }
 
+/* adds color to margin around image*/
+.card {
+    background-color:#FFE7D6
+}
