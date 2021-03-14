@@ -17,7 +17,7 @@ This application required:
 * Bootstrap
 * Javascript
 
-I also used the website https://coolors.co/ to create a color palette for the portfolio
+I also used the website [Coolors](https://coolors.co/) to create a color palette for the portfolio
 
 ## Mock Up and Link
 
@@ -27,5 +27,4 @@ I also used the website https://coolors.co/ to create a color palette for the po
 
 ![Portfolio Screenshot](images/Demo3.png)
 
-Click on the link for the full portfolio
-https://audreymking.github.io/Audrey-King-Portfolio/
+Click on the link for the full portfolio [here](https://audreymking.github.io/Audrey-King-Portfolio/)
