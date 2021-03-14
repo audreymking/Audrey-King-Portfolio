@@ -27,4 +27,4 @@ I also used the website [Coolors](https://coolors.co/) to create a color palette
 
 ![Portfolio Screenshot](images/Demo3.png)
 
-Click on the link for the full portfolio [here](https://audreymking.github.io/Audrey-King-Portfolio/)
+[Click here to access the full portfolio](https://audreymking.github.io/Audrey-King-Portfolio/)
