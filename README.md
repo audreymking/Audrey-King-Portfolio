@@ -21,7 +21,7 @@ I also used the website https://coolors.co/ to create a color palette for the po
 
 ## Mock Up and Link
 
-![Profile Screenshot](imgages/Demo1.png)
+![Profile Screenshot](images/Demo1.png)
 
 ![Contact Screenshot](images/Demo2.png)
 
