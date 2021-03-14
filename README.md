@@ -21,11 +21,11 @@ I also used the website https://coolors.co/ to create a color palette for the po
 
 ## Mock Up and Link
 
-![Profile Screenshot](Demo1.png)
+![Profile Screenshot](imgages/Demo1.png)
 
-![Contact Screenshot](Demo2.png)
+![Contact Screenshot](images/Demo2.png)
 
-![Portfolio Screenshot](Demo3.png)
+![Portfolio Screenshot](images/Demo3.png)
 
 Click on the link for the full portfolio
 https://audreymking.github.io/Audrey-King-Portfolio/

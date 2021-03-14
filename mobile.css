@@ -9,4 +9,8 @@
         margin: 0px;
         background: #FFE7D6;
     }
+    /*changes "Contact" and "About Me" font*/
+    .display-4 {
+        color: #555B6E
+    }
 }
